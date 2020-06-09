@@ -65,25 +65,14 @@ void TreeCreate()
         
     }
 }
-    void Inorder(struct Node *p)
-    {
-        if(p)
-        {
-            Inorder(p->lchild);
-            printf("%d",p->data);
-            Inorder(p->rchild);
-        }
-        
-    }
-
-
+    
 
 
 
 int main(int argc, const char * argv[]) {
     
     TreeCreate();
-    Inorder(root);
+
     // insert code here...
     return 0;
 }

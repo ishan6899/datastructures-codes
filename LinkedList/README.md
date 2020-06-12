@@ -30,7 +30,8 @@ Types of Linked List:
   <li>make last->next=t</li>
   <li>make last as t</li>
   </ul>
-  </ol>
+  </ol><br>
+
 ## Some applications while traversing the Linked List(All codes are easy and are provided):
 * Display All elements
 * Counting the Elements 
@@ -38,14 +39,14 @@ Types of Linked List:
 * Finding Max element
 * Searching through an element 
 
-## Some basic Operation of Linked List:
+## Some basic Operation of Linked List:(Codes provided)
 * Inserting in a Linked List
 
 * Deleting a node in Linked List
 
 * Reversing a Linked List
 
-## Some other applications of Linked List:
+## Some other applications of Linked List:(Codes provided)
 * Inserting in a Sorted Linked List
 * To check if linked list is sorted
 * Removing Duplicates From a sorted linked list
